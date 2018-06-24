@@ -1,7 +1,7 @@
 # iTunesMessageExtract
 Extracts SMS and iMessages for a given phone number from the most recent local iTunes backup.
 - Only works on windows machines where the iTunes backups are in their default location.
-- Retrieves the date, time, service (iMessage or SMS), if the message was sent or received, and message text for all messages sent to or recieved from a given phone number
+- Retrieves the date, time, service (iMessage or SMS), if the message was sent or received, and message text for all messages sent to or received from a given phone number
 
 # To Run
 There are a few options to run the program
