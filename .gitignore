@@ -1,5 +1,9 @@
 # Build directory
 build/*
+readMessages.spec
+
+# Git files
+.gitattributes
 
 # Python cache
 __pycache__/*
