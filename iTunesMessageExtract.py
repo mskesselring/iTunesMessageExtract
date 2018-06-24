@@ -1,4 +1,10 @@
 # !/usr/bin/python3
+
+# Created by Matthew Kesselring
+# v1.0
+# 24 June 2018
+# This program is free to use as long as these header comments are unmodified
+
 import sqlite3
 import datetime
 import os
