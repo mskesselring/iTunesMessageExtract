@@ -1,5 +1,5 @@
-# Object file
-*.o
+# Build directory
+build/*
 
-# Ada Library Information
-*.ali
+# Python cache
+__pycache__/*
