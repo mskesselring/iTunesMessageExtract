@@ -7,4 +7,4 @@ Extracts SMS and iMessages for a given phone number from the most recent local i
 There are a few options to run the program
 1. Run as a python script
 2. Build Executable using build.bat (requires pyinstaller)
-3. Run the dist/readMessages.exe executable file. This executable has no external dependencies and does not require python.
+3. Run the dist/iTunesMessageExtract.exe executable file. This executable has no external dependencies and does not require python.

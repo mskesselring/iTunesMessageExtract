@@ -1,9 +1,12 @@
 # Build directory
 build/*
-readMessages.spec
+iTunesMessageExtract.spec
 
 # Git files
 .gitattributes
 
 # Python cache
 __pycache__/*
+
+# Output Text
+*.txt
